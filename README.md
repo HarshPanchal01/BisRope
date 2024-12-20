@@ -1,8 +1,6 @@
-# w23-csci2020u-FinalProject-Mata-Cardoso-Martin-Ravindran-Panchal
+## Final Project for CSCI2020U
 
-## This is the final project for the course CSCI2020U - Software Development
-
-Written by the following students:
+Developed by:
 
 * [James Mata]()
 * [Andres Cardoso]()
@@ -14,17 +12,17 @@ Written by the following students:
 
 BisRope is an advanced chatserver application that allows users to create servers that contain chat rooms so that they can communicate in an organized way. This system supports an unlimited number of servers and chat rooms within memory. BisRope also supports the ability to send photos and emojis to other users aswell as video calling between 2 users. BisRope works with a Restful API and a Websocket API to perform such actions.
 
-## This video demonstrates the functionality of the project https://www.youtube.com/watch?v=b8qguJ5WiyA
+This video demonstrates the functionality of the project https://www.youtube.com/watch?v=b8qguJ5WiyA
 
-![Screenshot](server.png)
+![Screenshot](screenshots/server.png)
 
 In this photo we can see the view from inside a server
 
-![Screenshot](chat.png)
+![Screenshot](screenshots/chat.png)
 
 From this photo we can see the view from inside a room inside a server
 
-![Screenshot](video.png)
+![Screenshot](screenshots/video.png)
 
 From this photo we can see the view from inside a video call
 
@@ -47,16 +45,3 @@ Starting up the application in the order local -> remote you should be met with 
 ## Libraries Used
 
 Agora.io Sdk https://www.agora.io/en/
-
-## Known issues
-
-We use alot of local caching of data within the browser so running multiple windows simultaneously can lead to data being overwritten. We are overlooking this because in reality there shouldnt be multiple accounts using the same machine at the same time.
-
-## Planned features
-
-* Chat History
-* Custom Room Names
-* Password encryption
-* Screensharing and group video calls
-* Multi media transfer
-* Server privilages

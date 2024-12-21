@@ -2,11 +2,11 @@
 
 Developed by:
 
-* [James Mata]()
-* [Andres Cardoso]()
-* [Dennis Martin]()
-* [Harsh Panchal]()
-* [Mirisan Ravindran]()
+* [James Mata](https://github.com/JamesMeta)
+* [Andres Cardoso](https://github.com/AndresCardosoP)
+* [Dennis Martin](https://github.com/DMartinCodes)
+* [Harsh Panchal](https://github.com/HarshPanchal01)
+* [Mirisan Ravindran](https://github.com/MirisanRavindran)
 
 ## Project Description
 
